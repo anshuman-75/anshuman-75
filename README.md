@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anshuman Pratap Singh a B.E student at Graphic Era Hill University
-- 👀 Currently I am working as a freelancer.
-- 🌱 I’m currently learning Penetration testing.
-- 🤝 I’m looking to collaborate on any project with anyone, hit me up..
+-  Hi, I’m Anshuman Pratap Singh a B.E student at Graphic Era Hill University
+-  Currently I am working as a freelancer.
+-  I’m currently learning Penetration testing.
+-  I’m looking to collaborate on any project with anyone, hit me up..
 
 
 <!---
